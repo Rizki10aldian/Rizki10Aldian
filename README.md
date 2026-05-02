@@ -38,8 +38,8 @@ status     : "Mahasiswa aktif semester 2"
 
 | 🏫 Institusi | 📚 Jurusan | 📅 Tahun Masuk | 🎓 Tahun Lulus |
 |---|---|---|---|
-| Politeknik Negeri Batam | D4 Teknologi Rekayasa Perangkat Lunak | 2024 | 2028 (estimasi) |
-| SMK NEGERI 1 BINTAN UTARA | JURUSAN — TEKNIK INSTALASI TENAGA LISTRIK | [TAHUN MASUK] | [TAHUN LULUS] |
+| Politeknik Negeri Batam | D4 Teknologi Rekayasa Perangkat Lunak | 2025 | 2029 (estimasi) |
+| SMK NEGERI 1 BINTAN UTARA | JURUSAN — TEKNIK INSTALASI TENAGA LISTRIK | 2022 | 2025 |
 
 ---
 
@@ -96,11 +96,11 @@ sistem pemilihan RT dan RW Berbasis Web.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[USERNAME-GITHUB-KAMU]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rizki10Aldian&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME-GITHUB-KAMU]&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rizki10Aldian&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=[USERNAME-GITHUB-KAMU]&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Rizki10Aldian&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -110,6 +110,6 @@ sistem pemilihan RT dan RW Berbasis Web.
 
 ⭐ *Terima kasih sudah mengunjungi profil saya!* ⭐
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=[USERNAME-GITHUB-KAMU].[USERNAME-GITHUB-KAMU])
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Rizki10Aldian.Rizki10Aldian)
 
 </div>
