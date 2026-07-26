@@ -28,11 +28,11 @@
 
 # Rizki Aldian Purba
 
-**`Frontend Developer`** — crafting clean interfaces, one component at a time.
+**`Fullstack Developer`** — building end-to-end web solutions, from database to interface.
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1200&color=6366F1&center=true&vCenter=true&width=480&height=32&lines=Building+SIMAS+%40+Polibatam;Laravel+%C2%B7+Tailwind+CSS+%C2%B7+JavaScript;Turning+ideas+into+interfaces.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1200&color=6366F1&center=true&vCenter=true&width=520&height=32&lines=Building+SIMAS+%40+Polibatam;Laravel+%C2%B7+Tailwind+CSS+%C2%B7+MySQL;Full-stack%2C+start+to+finish.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -54,16 +54,16 @@
 
 <br/>
 
-> *I'm a frontend-focused developer studying Software Engineering at Polibatam.*
-> *I care deeply about clean code, strong visual hierarchy, and interfaces that just feel right.*
+> *I'm a fullstack-focused developer studying Software Engineering at Polibatam.*
+> *Comfortable across the stack — from designing databases and APIs to crafting clean, responsive interfaces.*
 
 <br/>
 
 ```yaml
-role        : Frontend Developer
+role        : Fullstack Developer
 location    : Batam, Kepulauan Riau — Indonesia
 education   : D4 Software Engineering · Polibatam · 2025–2029
-focus       : Web Interfaces · UI/UX · Component Architecture
+focus       : Full-Stack Web Development · System Architecture · UI/UX
 currently   : Building SIMAS (Letter Management System) for Polibatam
 interests   : Web Development · AI & Technology · UI/UX Design
 ```
@@ -106,7 +106,7 @@ A web-based letter & document management system for Polibatam's internal adminis
 Built to handle multi-level approval flows, electronic signatures, and SSO integration.
 
 ```
-Role        : Frontend Developer (sole frontend in a 6-person team)
+Role        : Fullstack Developer (6-person team)
 Stack       : Laravel Blade · Tailwind CSS 4.2 · Vanilla JS · Vite · MySQL
 Highlights  : Multi-level verification flow · Drag & drop TTE (e-signature)
               Automatic document numbering · Email notifications · SSO
@@ -123,10 +123,10 @@ Highlights  : Multi-level verification flow · Drag & drop TTE (e-signature)
 > Politeknik Negeri Batam &nbsp;·&nbsp; Semester 1, 2025
 
 A web-based voting system designed for community-level (RT/RW) elections.
-Clean and accessible UI for non-technical community members.
+Clean, accessible UI paired with a straightforward backend voting flow.
 
 ```
-Role        : Frontend Developer
+Role        : Fullstack Developer
 Focus       : Accessible UI · Simple voting flow · Clean interface
 ```
 
@@ -140,25 +140,19 @@ Focus       : Accessible UI · Simple voting flow · Clean interface
 
 <br/>
 
-**Languages**
+<div align="center">
 
-![PHP](https://img.shields.io/badge/PHP-6366F1?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-6366F1?style=flat-square&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-6366F1?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-6366F1?style=flat-square&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-6366F1?style=flat-square&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,cpp,dart,express,laravel,flutter,codeigniter,jquery,bootstrap,tailwind,mysql,mongodb,postgres,sqlite,git,github,docker,nginx,vscode,androidstudio,postman,npm,figma,notion,linux,windows,azure,ubuntu&theme=dark&perline=15" alt="Tech Stack Icons" />
+
+</div>
 
 <br/>
 
-**Frameworks & Tools**
-
-![Laravel](https://img.shields.io/badge/Laravel-6366F1?style=flat-square&logo=laravel&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-6366F1?style=flat-square&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-6366F1?style=flat-square&logo=vite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-6366F1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-6366F1?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-6366F1?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-6366F1?style=flat-square&logo=visual-studio-code&logoColor=white)
+**Frontend** &nbsp;·&nbsp; HTML5 · CSS3 · JavaScript · Tailwind CSS · Bootstrap · jQuery
+**Backend** &nbsp;·&nbsp; PHP (Laravel, CodeIgniter) · Node.js (Express) · Python · Java · C++ · Dart (Flutter)
+**Database** &nbsp;·&nbsp; MySQL · PostgreSQL · MongoDB · SQLite
+**Tools & DevOps** &nbsp;·&nbsp; Git · GitHub · Docker · Nginx · VS Code · Android Studio · Postman · npm · Figma · Notion
+**OS & Cloud** &nbsp;·&nbsp; Linux · Windows · Ubuntu · Azure
 
 <br/>
 
@@ -198,7 +192,7 @@ Focus       : Accessible UI · Simple voting flow · Clean interface
 
 `rizki · aldian · purba`
 
-*"Good interfaces are invisible. Great ones are unforgettable."*
+*"A good fullstack developer doesn't just connect the pieces — they understand why each one is there."*
 
 <br/>
 
