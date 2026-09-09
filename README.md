@@ -38,7 +38,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Rizki10Aldian-6366F1?style=flat-square&logo=github&logoColor=white)](https://github.com/Rizki10Aldian)
 &nbsp;
-[![Location](https://img.shields.io/badge/Batam,_Indonesia-📍-6366F1?style=flat-square)](https://github.com/Rizki10Aldian)
+[![Location](https://img.shields.io/badge/Batam,_Indonesia--6366F1?style=flat-square)](https://github.com/Rizki10Aldian)
 &nbsp;
 [![Status](https://img.shields.io/badge/Open_to_Collaborate-✓-6366F1?style=flat-square)](https://github.com/Rizki10Aldian)
 
@@ -63,9 +63,8 @@
 role        : Fullstack Developer
 location    : Batam, Kepulauan Riau — Indonesia
 education   : D4 Software Engineering · Polibatam · 2025–2029
-focus       : Full-Stack Web Development · System Architecture · UI/UX
-currently   : Building SIMAS (Letter Management System) for Polibatam
-interests   : Web Development · AI & Technology · UI/UX Design
+focus       : Full-Stack Web Development · System Architecture
+interests   : Web Development · AI & Technology
 ```
 
 <br/><br/>
@@ -79,11 +78,11 @@ interests   : Web Development · AI & Technology · UI/UX Design
 <br/>
 
 ```
-2025 → now   Politeknik Negeri Batam
+2025  now   Politeknik Negeri Batam
              D4 · Teknologi Rekayasa Perangkat Lunak
              ▸ Focus: Web Development, System Design, Databases
 
-2022 → 2025  SMK Negeri 1 Bintan Utara
+2022  2025  SMK Negeri 1 Bintan Utara
              Teknik Instalasi Tenaga Listrik
              ▸ Foundation: Engineering mindset, problem solving
 ```
