@@ -32,7 +32,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1200&color=6366F1&center=true&vCenter=true&width=520&height=32&lines=Building+SIMAS+%40+Polibatam;Laravel+%C2%B7+Tailwind+CSS+%C2%B7+MySQL;Full-stack%2C+start+to+finish.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1200&color=6366F1&center=true&vCenter=true&width=520&height=32&lines=Full-stack%2C+start+to+finish.)](https://git.io/typing-svg)
 
 <br/>
 
