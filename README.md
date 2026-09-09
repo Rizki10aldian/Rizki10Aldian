@@ -141,17 +141,17 @@ Focus       : Accessible UI · Simple voting flow · Clean interface
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,cpp,dart,express,laravel,flutter,codeigniter,jquery,bootstrap,tailwind,mysql,mongodb,postgres,sqlite,git,github,docker,nginx,vscode,androidstudio,postman,npm,figma,notion,linux,windows,azure,ubuntu&theme=dark&perline=15" alt="Tech Stack Icons" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,dart,laravel,flutter,codeigniter,bootstrap,tailwind,mysql,mongodb,postgres,git,github,nginx,vscode,postman,npm,figma,notion,windows&theme=dark&perline=12" alt="Tech Stack Icons" />
 
 </div>
 
 <br/>
 
-**Frontend** &nbsp;·&nbsp; HTML5 · CSS3 · JavaScript · Tailwind CSS · Bootstrap · jQuery
-**Backend** &nbsp;·&nbsp; PHP (Laravel, CodeIgniter) · Node.js (Express) · Python · Java · C++ · Dart (Flutter)
-**Database** &nbsp;·&nbsp; MySQL · PostgreSQL · MongoDB · SQLite
-**Tools & DevOps** &nbsp;·&nbsp; Git · GitHub · Docker · Nginx · VS Code · Android Studio · Postman · npm · Figma · Notion
-**OS & Cloud** &nbsp;·&nbsp; Linux · Windows · Ubuntu · Azure
+**Frontend** &nbsp;·&nbsp; HTML5 · CSS3 · JavaScript · Tailwind CSS · Bootstrap
+**Backend** &nbsp;·&nbsp; PHP (Laravel, CodeIgniter) · Python · Dart (Flutter)
+**Database** &nbsp;·&nbsp; MySQL · PostgreSQL · MongoDB
+**Tools & DevOps** &nbsp;·&nbsp; Git · GitHub · Nginx · VS Code · Postman · npm · Figma · Notion
+**OS** &nbsp;·&nbsp; Windows
 
 <br/>
 
